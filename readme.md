@@ -2,3 +2,6 @@
 
 ## Html Email
 PHPMailer 5.2
+
+#Hosting
+Runs on any server , using php 7X
