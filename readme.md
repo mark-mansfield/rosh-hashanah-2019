@@ -5,3 +5,7 @@ PHPMailer 5.2
 
 #Hosting
 Runs on any server , using php 7X
+
+##Usage
+Download and serve up index.html
+
